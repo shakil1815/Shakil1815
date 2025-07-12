@@ -1,6 +1,4 @@
-# Shakil Khan 🌐
-
-![Cover](https://x.com/Shakil_khan029/header_photo)
+# Shakil Ahmed 🌐
 
 ## 👋 Hello, I'm Shakil Khan
 
