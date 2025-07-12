@@ -1,6 +1,6 @@
 # Shakil Khan — Developer Portfolio 🌐
 
-![Banner](https://pbs.twimg.com/media/Your_Image_Link_Here.jpg)
+![Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/banner.jpg)
 
 ## 👋 Hello, I'm Shakil Khan
 
@@ -28,16 +28,15 @@ Check out my pinned repositories to see:
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: [linkedin.com/in/shakil-khan](https://www.linkedin.com/in/shakil-khan)
-- 🐦 Twitter/X: [@Shakil_khan029](https://x.com/Shakil_khan029)
-- 📧 Email: shakil029ahmed@gmail.com
+- 🔗 **Facebook**: [facebook.com/shakil1815](https://facebook.com/shakil1815)
+- 📸 **Instagram**: [instagram.com/shakil_1815](https://instagram.com/shakil_1815)
+- 💼 **LinkedIn**: [linkedin.com/in/shakil1815](https://linkedin.com/in/shakil1815)
+- 🐦 **Twitter/X**: [@Shakil_khan029](https://x.com/Shakil_khan029)
+- 📧 **Email**: shakil029ahmed@gmail.com
 
 ---
 
 > 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
-
-
 ### 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
