@@ -1,3 +1,43 @@
+# Shakil Khan — Developer Portfolio 🌐
+
+![Banner](https://pbs.twimg.com/media/Your_Image_Link_Here.jpg)
+
+## 👋 Hello, I'm Shakil Khan
+
+I'm a passionate CSE student and aspiring software developer from Bangladesh 🇧🇩. I enjoy coding, building projects, and learning new technologies every day. This GitHub is a reflection of my journey into the world of development.
+
+---
+
+## 🔧 My Skills
+
+- 💻 Programming: `C`, `Python`, `HTML`, `CSS`, `JavaScript`
+- 🌐 Web Development: Frontend & Backend Basics
+- 🧠 Currently Learning: `C++`, `Data Structures`, `Algorithms`
+- 🧪 Interests: Competitive Programming | Machine Learning | Cybersecurity
+
+---
+
+## 📁 My Repositories
+
+Check out my pinned repositories to see:
+- 🚀 Web apps
+- 💡 Mini projects
+- 🎓 University Assignments
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn: [linkedin.com/in/shakil-khan](https://www.linkedin.com/in/shakil-khan)
+- 🐦 Twitter/X: [@Shakil_khan029](https://x.com/Shakil_khan029)
+- 📧 Email: shakil029ahmed@gmail.com
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+
+
 ### 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
