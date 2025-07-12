@@ -1,6 +1,6 @@
-# Shakil Khan — Developer Portfolio 🌐
+# Shakil Khan 🌐
 
-![Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/banner.jpg)
+![Banner](https://raw.githubusercontent.com/your-shakil1815/your-repo-name/main/assets/banner.jpg)
 
 ## 👋 Hello, I'm Shakil Khan
 
@@ -10,8 +10,7 @@ I'm a passionate CSE student and aspiring software developer from Bangladesh �
 
 ## 🔧 My Skills
 
-- 💻 Programming: `C`, `Python`, `HTML`, `CSS`, `JavaScript`
-- 🌐 Web Development: Frontend & Backend Basics
+- 💻 Programming: `C`, `Python`, `HTML`
 - 🧠 Currently Learning: `C++`, `Data Structures`, `Algorithms`
 - 🧪 Interests: Competitive Programming | Machine Learning | Cybersecurity
 
@@ -38,8 +37,6 @@ Check out my pinned repositories to see:
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shakil1815&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shakil1815&theme=buefy&hide_border=false)<br/>
