@@ -1,6 +1,6 @@
 # Shakil Khan 🌐
 
-![Banner](https://raw.githubusercontent.com/your-shakil1815/your-repo-name/main/assets/banner.jpg)
+![Cover](https://x.com/Shakil_khan029/header_photo)
 
 ## 👋 Hello, I'm Shakil Khan
 
