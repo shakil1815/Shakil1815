@@ -1,6 +1,6 @@
 # Shakil Ahmed 🌐
 
-## 👋 Hello, I'm Shakil Khan
+## 👋 Hello, I'm Shakil Ahmed
 
 I'm a passionate CSE student and aspiring software developer from Bangladesh 🇧🇩. I enjoy coding, building projects, and learning new technologies every day. This GitHub is a reflection of my journey into the world of development.
 
@@ -8,10 +8,7 @@ I'm a passionate CSE student and aspiring software developer from Bangladesh �
 
 ## 🔧 My Skills
 
-- 💻 Programming: `C`, `Python`, `HTML`
-- 🧠 Currently Learning: `C++`, `Data Structures`, `Algorithms`
-- 🧪 Interests: Competitive Programming | Machine Learning | Cybersecurity
-
+- 💻 Programming: `C (Currently Learning)`
 ---
 
 ## 📁 My Repositories
@@ -25,7 +22,7 @@ Check out my pinned repositories to see:
 
 ## 📫 Contact Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakil1815) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shakil_1815) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shakil1815) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shakil_khan029) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@socchar029?si=xzRCFcdfIIuYB_hR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakil029ahmed@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakil1815) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shakil_1815) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakil.ahmed.mobin@gmail.com) 
 
 ---
 
