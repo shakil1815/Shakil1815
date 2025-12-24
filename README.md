@@ -9,7 +9,7 @@ I'm a passionate CSE student and aspiring software developer from Bangladesh �
 ## 🔧 My Skills
 
 - 💻 Programming:
-                🔵 `C (Currently Learning)`
+                🔵 `C`
                 🔵 `C++ (Currently Learning)`
 ---
 
