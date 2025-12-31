@@ -1,16 +1,27 @@
+<div align="center">
+
 # Shakil Ahmed 🌐
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shakil1815&style=for-the-badge&label=PROFILE+VIEWS&color=00d1b2)
 
 ## 👋 Hello, I'm Shakil Ahmed
 
-I'm a passionate CSE student and aspiring software developer from Bangladesh 🇧🇩. I enjoy coding, building projects, and learning new technologies every day. This GitHub is a reflection of my journey into the world of development.
+I'm a passionate **CSE student** and aspiring **software developer** from Bangladesh 🇧🇩. <br>
+I enjoy coding, building projects, and learning new technologies every day. <br>
+This GitHub is a reflection of my journey into the world of development.
+
+[![](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakil1815) [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shakil_1815) [![](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakil.ahmed.mobin@gmail.com)
+
+</div>
 
 ---
 
 ## 🔧 My Skills
 
-- 💻 Programming:
-                🔵 `C`
-                🔵 `C++ (Currently Learning)`
+- 💻 **Programming:**
+  - 🔵 `C`
+  - 🔵 `C++ (Currently Learning)`
+
 ---
 
 ## 📁 My Repositories
@@ -22,21 +33,26 @@ Check out my pinned repositories to see:
 
 ---
 
-## 📫 Contact Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakil1815) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shakil_1815) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakil.ahmed.mobin@gmail.com) 
-
----
-
 > 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
 ### 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤝 I’m looking for help with ...
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- ⚡ Fun fact ...
 
 ---
+
+<div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shakil1815&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shakil1815&theme=buefy&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Shakil1815&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shakil1815&theme=buefy&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil1815&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -48,7 +64,4 @@ Check out my pinned repositories to see:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shakil1815&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Shakil1815&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
