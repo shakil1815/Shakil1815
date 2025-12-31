@@ -2,7 +2,6 @@
 
 # Shakil Ahmed 🌐
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shakil1815&style=for-the-badge&label=PROFILE+VIEWS&color=00d1b2)
 
 ## 👋 Hello, I'm Shakil Ahmed
 
@@ -65,3 +64,6 @@ Check out my pinned repositories to see:
 ![](https://github-contributor-stats.vercel.app/api?username=Shakil1815&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shakil1815&style=for-the-badge&label=PROFILE+VIEWS&color=00d1b2)
+
