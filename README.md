@@ -23,7 +23,7 @@ Pioneering the intersection of **Artificial Intelligence** and **Cybersecurity**
 [![](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakil1815) 
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shakil_1815) 
 [![](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakil.ahmed.mobin@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakil1815)
+[![](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=white)](https://codeforces.com/profile/voided_shakil)
 
 </div>
 
@@ -46,7 +46,13 @@ Pioneering the intersection of **Artificial Intelligence** and **Cybersecurity**
 ## 🛠️ Technical Skills
 
 **Core Languages:**
-- 🔵 `C` | 🔵 `C++`
+- ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+
+**Web Development:**
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white) (Currently Learning)
+
+**Developer Tools:**
+- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) (Currently Learning)
 
 **Specializations:**
 - Advanced AI/ML Systems | Cybersecurity & Ethical Hacking | System Security
