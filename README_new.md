@@ -2,19 +2,15 @@
 
 # 🔐 Shakil Ahmed
 
-### **Aspiring Claude Engineer & Cybersecurity Specialist**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=Building+Intelligent+Secure+Systems;AI+%26+LLM+Integration+Expert;Next-Gen+Cybersecurity+Innovator)](https://git.io/typing-svg)
+### Aspiring Claude Engineer & Cybersecurity Specialist
 
 </div>
 
 <div align="center">
 
-**CSE Student | Bangladesh 🇧🇩**
+I'm a **CSE student** from Bangladesh 🇧🇩, passionate about building intelligent systems, exploring AI/Claude engineering, and securing the digital landscape. <br>
 
-Pioneering the intersection of **Artificial Intelligence** and **Cybersecurity** | Building intelligent, secure solutions with Claude AI | Committed to ethical hacking and system protection
-
-**🎯 Mission:** Develop next-generation security frameworks powered by intelligent AI systems
+**Specializing in:** AI-powered applications | Cybersecurity | Software Engineering
 
 </div>
 
@@ -41,45 +37,50 @@ Pioneering the intersection of **Artificial Intelligence** and **Cybersecurity**
 - Secure coding principles
 - Network and application security concepts
 
+### 💻 Software Development
+- Full-stack application development
+- Clean code and software architecture
+- Problem-solving and algorithm design
+
 ---
 
 ## 🛠️ Technical Skills
 
-**Core Languages:**
-- 🔵 `C` | 🔵 `C++`
+**Languages:**
+- 🔵 `C` | 🔵 `C++` | 🟡 `Python` | 🟡 `JavaScript`
 
-**Specializations:**
-- Advanced AI/ML Systems | Cybersecurity & Ethical Hacking | System Security
-
----
-
-## 🚀 Featured Work
-
-Explore my portfolio of excellence:
-- 🤖 **Intelligent Systems** - Claude API integrations & LLM applications
-- 🔐 **Security Solutions** - Advanced cybersecurity implementations & frameworks
-- 💡 **Algorithm Mastery** - Complex problem-solving & optimization
-- 🎓 **Academic Excellence** - Coursework & research projects
+**Areas of Interest:**
+- AI/ML Integration | Cybersecurity | Web Development | System Design
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+## 🚀 Projects & Work
 
-### 💫 About Me:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤝 I’m looking for help with ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- ⚡ Fun fact ...
+Explore my repositories showcasing:
+- 🤖 AI-powered applications and Claude integrations
+- 🔐 Cybersecurity projects and security implementations
+- 💡 Algorithm challenges and data structure implementations
+- 📱 Web applications and full-stack development
+- 🎓 Academic coursework and assignments
+
+---
+
+> 💭 *"Security and intelligence are not just features—they're fundamental to robust software."*
+
+---
+
+## 🌱 Current Journey
+
+- 🔭 **Exploring:** Claude API integrations & LLM applications
+- 🔒 **Learning:** Advanced cybersecurity concepts & ethical hacking
+- 💡 **Building:** AI-assisted developer tools and security solutions
+- 🤝 **Open to:** Collaborations on AI, security, or full-stack projects
 
 ---
 
 <div align="center">
 
----
-
-# 📊 Performance Metrics:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Shakil1815&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
@@ -98,13 +99,4 @@ Explore my portfolio of excellence:
 
 </div>
 
----
-
-<div align="center">
-
-**Let's collaborate on building the future of intelligent, secure systems** 🚀
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Shakil1815&style=for-the-badge&label=PROFILE+VIEWS&color=00d1b2)
-
-</div>
-
