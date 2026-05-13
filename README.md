@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**CSE Student (Algorion-2) | Bangladesh 🇧🇩**
+**CSE Student  | Bangladesh 🇧🇩**
 
 Building a strong foundation in **Computer Science** | Passionate about the intersection of **Cloud Computing** and **Cybersecurity** | Dedicated to continuous learning and problem-solving
 
