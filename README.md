@@ -49,7 +49,7 @@ Building a strong foundation in **Computer Science** | Passionate about the inte
 - ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 **Web Development:**
-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) (Learning)
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white) 
 
 **Tools & Platforms:**
 - ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
