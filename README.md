@@ -1,18 +1,9 @@
 <div align="center">
 
 #  Shakil Ahmed
-
-### **Aspiring Cloud Engineer & Cybersecurity Enthusiast**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Exploring+Cloud+%26+Cybersecurity;Passionate+about+C%2FC%2B%2B+%26+Problem+Solving)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
 **CSE Student  | Bangladesh 🇧🇩**
 
-Building a strong foundation in **Computer Science** | Passionate about the intersection of **Cloud Computing** and **Cybersecurity** | Dedicated to continuous learning and problem-solving
+Building a strong foundation in **Computer Science & Engineering** | Dedicated to continuous learning and problem-solving
 
 **🎯 Mission:** Master core programming concepts and eventually develop secure, scalable, and intelligent cloud-based systems.
 
