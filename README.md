@@ -3,8 +3,10 @@
 # Shakil Ahmed
 **CSE Student | Bangladesh 🇧🇩**
 
-<img src="https://raw.githubusercontent.com/shakil1815/Shakil1815/main/shakil%20welcome.png" alt="Welcome Banner" width="100%">
-Building a strong foundation in **Computer Science & Engineering** | Dedicated to continuous learning and problem-solving
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shakil1815/Shakil1815/825c0d7519fd0c97bf83a1dfe6883ddc944b3033/welcome%20shakil%20.png" width="100%" alt="Welcome to My GitHub">
+</div>
+Building a strong foundation in *Computer Science & Engineering* | Dedicated to continuous learning and problem-solving
 
 **🎯 Mission:** Master core programming concepts and eventually develop secure, scalable, and intelligent cloud-based systems.
 
