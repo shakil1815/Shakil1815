@@ -66,16 +66,6 @@ Building a strong foundation in *Computer Science & Engineering* | Dedicated to 
 
 ---
 
-### 📊 GitHub Analytics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakil1815&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Shakil's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakil1815&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakil1815&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Computer+Science+Student+at+PrSTU;Passionate+about+Competitive+Programming;Exploring+Cloud+Engineering+%26+Cyber+Security;Building+the+Future+with+Code" alt="Typing SVG" />
